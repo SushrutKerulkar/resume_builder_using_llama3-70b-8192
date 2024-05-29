@@ -1,0 +1,50 @@
+Name: Sushrut Kerulkar
+San Jose, CA | sush.k@umbc.edu| 443-527-9211
+linkedin.com/in/sushrutkerulkar/| github.com/SushrutKerulkar |public.tableau.com/app/profile/sushrut6439/vizzes
+SKILLS
+Programming Languages: Python, SQL, Shell Scripting, R, JavaScript, Java.
+Tools and Frameworks: Tableau, PowerBI, DOMO, DataStage, PySpark, Streamlit, Unidash, Presto, Airflow, Databand, Git, R Shiny,
+Pandas, Scikit-learn, MS Excel, AWS, Docker, OpenShift, Swagger UI, Adobe XD, CSS.
+Database Skills: MySQL, DB2, MS SQL Server, Oracle DB, Hive, Dremio, PostgreSQL, MongoDB.
+EXPERIENCE
+Data Engineer/ Data Architect | IBM, San Jose, CA FEB 2022 – APR 2024
+• Pioneered data modernization analytics process from DataStage 11.5/11.7 to NextGen with Python/Bash, optimizing
+assessment processes for 22 clients.
+• Developed an automation tool for DataStage NextGen to perform CRUD operations for DS flows using the DataStage
+API in Python.
+• Configured, maintained, and developed DataStage ETL data pipelines for a range of IBM clients.
+• Designed and implemented proof of concept for integrating Databand into a client's existing architecture, which
+paved the way for enhanced data pipeline monitoring and workflow optimization.
+Data Engineer | HCL Technologies (In-house consulting at Meta), Menlo Park, CA MAY 2021 – FEB 2022
+• Configured CI/CD data pipelines from Hive in support of Infrastructure Analytics dashboards using Python and Presto.
+• Optimized complex SQL queries to reduce the execution time by 70% to enhance dashboard refresh rates.
+• Designed and deployed a Workplace bot in Python to deliver insightful analytics for the Hardware Emulation team,
+enhancing operational efficiency.
+Data Analyst, FinOps | Purchasing Power LLC, Atlanta, GA SEP 2020 – MAY 2021
+• Solved the Customer Overpayments issue by building a data pipeline from the company’s database which boosted
+96% efficiency in data to track customer deductions.
+• Developed a real-time dashboard to track the C4C customer ticket’s activity through the company’s data lake.
+• Built ETL data pipeline to automate the task of Treasury Reversals and Remit Reconciliation of Top 3 customers.
+• Supported the FinOps and FP&A in serving ad-hoc requests and performing Trend Analysis.
+Data Analyst Intern | SAP Concur, Vienna, VA JUN 2019 – NOV 2019
+• Built and programmed a data pipeline between my company’s CRM (Salesforce) and its database to automate data
+extraction and manipulation.
+• Conducted requirements gathering for the Work Smart dashboard, prepared wireframes, and other process
+documentation for the Operations & Sales team.
+• Developed a REST API in Flask for the dashboard. Also worked on the frontend for the system using R Shiny.
+Associate Software Engineer | Accenture Services Pvt. Ltd., Pune, India JUN 2017 – MAY 2018
+• Handled component testing of a product for LLU (Local Loop Unbundling), which is critical for copper-based
+broadband services.
+• Performed data retrieval and automation using Python and SQL and developed UI for the application.
+EDUCATION
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY, BALTIMORE, MD MAY 2020
+Master of Science in Information Systems
+SAVITRIBAI PHULE PUNE UNIVERSITY (MITSOM COLLEGE), PUNE, INDIA APRIL 2017
+Master of Computer Application (Commerce)
+SAVITRIBAI PHULE PUNE UNIVERSITY (MMCC), PUNE, INDIA APRIL 2014
+Bachelor of Commerce
+CERTIFICATIONS
+• IBM WatsonX essentials
+• Watsonx.data Sales foundation
+• Introduction to OpenShift Applications (DO101)
+• Introduction to PySpark (Datacamp)

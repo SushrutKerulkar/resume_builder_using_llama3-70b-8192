@@ -1,0 +1,57 @@
+Job Title: Business Intelligence Analyst, Accounting
+Company: Snowflake
+Location: Dublin, CA
+
+About the job
+Build the future of data. Join the Snowflake team.
+
+We’re looking for a BI Analyst to join our growing Finance BI team. In this role, you will support the Accounting team and drive value by empowering decision making through data, reporting, and analysis. This role requires in-person attendance in the local office at least 3 days per week
+
+IN THIS ROLE YOU WILL :
+
+Work with a wide range of finance and technical stakeholders to identify use cases and gather requirements for analysis, reporting, and automation
+Research data from key business systems, work with IT to ingest data into Snowflake, assess data quality, map requirements to available data, architect data models and data pipelines, and design end-to-end business intelligence solutions to support our Accounting team
+Analyze data to shed light on key business questions and present on findings
+Build dashboards to enable ongoing delivery of information and insights to Accounting stakeholders
+Formulate project plans, provide status updates, and work with Accounting team members to perform user testing and QA
+Build and maintain user friendly documentation for data models, metrics, and reporting
+Think creatively to find optimal solutions to our complex, often unstructured problems
+Identify weaknesses in processes, data, and systems, and drive improvements
+
+
+WHAT YOU WILL NEED :
+
+Required skills:
+
+2+ years of experience working as a BI analyst or engineer
+Advanced SQL skills, with experience using SQL to perform analysis, standardize queries, and build large-scale relational datasets
+Experience developing, deploying, and maintaining enterprise level reports using BI tools such as Streamlit, Tableau, Power BI, Looker, or other relevant technologies
+Experience with MPP databases such as Snowflake, Redshift, BigQuery, or other relevant technologies
+Ability to communicate in an effective and efficient manner with a wide range of technical and non-technical stakeholders, including senior leaders
+Ability to prioritize and execute tasks in a high-pressure, constantly changing environment
+An impulse for taking ownership and introducing structure and simplicity when faced with vague, complex problems
+An obsession for detail and quality
+A bias for action
+
+
+Preferred skills:
+
+Experience with ERP and Financial Planning tools
+Experience using Python to parse, structure, and transform data
+Experience leading or working within a scrum, sprint, or other agile framework
+Past experience working in a finance or accounting role, or directly supporting analysis and reporting for finance or accounting stakeholders
+
+
+Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.
+
+The following represents the expected range of compensation for this role:
+
+ The estimated base salary range for this role is $102,000 - $136,500.
+Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.
+
+
+The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact?
