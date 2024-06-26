@@ -6,4 +6,4 @@ In this example I have used Snowflake's BI Analyst position to draft a resume.
 
 **jobDescription.txt** - Contains the job post.
 
-**resume.txt** - Contains my resume.
+**resume.txt** - Contains sample resume.
